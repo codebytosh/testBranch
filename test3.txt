@@ -1,1 +1,1 @@
-This is test 3. IMPORTANT MSG -> Git is fun :)
+This is test 3 - IMPORTANT MSG -> Git is fun :)
